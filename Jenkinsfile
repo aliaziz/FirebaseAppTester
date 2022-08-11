@@ -3,7 +3,7 @@ node {
     def isMainline = ["develop", "master"].contains(env.BRANCH_NAME)
 
     List environment = [
-        "GOOGLE_APPLICATION_CREDENTIALS=$HOME/.android/service_creds_app_distro.json"
+        "GOOGLE_APPLICATION_CREDENTIALS=$HOME/.jenkins/workspace/DistroBranchable_master/service_creds_app_distro.json"
     ]
 
     stage('Checkout') {
