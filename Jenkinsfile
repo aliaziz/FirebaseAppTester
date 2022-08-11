@@ -8,6 +8,7 @@ node {
 
     stage('Checkout') {
         // Pull the code from the repo
+        echo $HOME
         checkout scm
     }
 
