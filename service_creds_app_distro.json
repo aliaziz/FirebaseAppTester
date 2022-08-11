@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "appdistro-c76d8",
+  "private_key_id": "3f45b98aeb6b6fffa09340713f4d98e23a6cf521",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTW6tSpbc4+QWP\nYghvjXnOqx97G291dt0pzGqNwZ9T+rA3Xs7j7yUN8nVCWP1BjmbVOqbF7txaXK5H\ndNCDcFR9McOYzfG1p0DtqZvm840wSK12EZ2pZpufT5tgPR39JqBOXe8OOQEG0Z8d\neid8whMS4qm8cGw4qbNbp2qfZu5VTHPIPQ9sJV9Cou8mx8KoLAxvX83JM88IlDo/\nKseQPAZqEtqo9slJvpgbAubbErG/bcbOAAeX8tsjTToLD6INjnERhgkU94GbRmkh\nM116quhF7c04S+WGw3NB0jXL6JjFdvVqwoetKFuILI/4qnblW/K2Jg1EVeQNGyBI\n9ofV0kcVAgMBAAECggEAOHlG0O9Sp2KEd32GJx5swsBBWeBbWIS74OOHKJm+cqRe\nOXI7zw4dQNmdh9ZsBN5K2chXFv9icr0XS6pgqSb5MlvKjvrKeihF0W+RoLLRduI7\nnEbHCh+ZX7ZWIU16+0R85lvInMZK9u6KUPU6Qe1s+u1kSKQ7TYH4C5W/XqTHjWeg\nyB5JXkkBg7NtrFde06Sg1Vp8ojsDDU9HsM/gxRuG3HAf6ChOKYjbUe2O62hE334s\nN5oOYMh9LEQdrP/WaD5j70OG5efp9HkUd+j/D+Tuhx6FUHbu0egXgSgJyFOFdYJN\n9mEaXvNmpSGRruDaTeIbIgiiYGSaecaOsamoTmx6VwKBgQDOYr44uin2e6WdqoTS\nCTcnW/a4CCagS4WBkIk1bfdO8xkjrJkAf1x7SK5GsbkmZcJFZoz9EcQ1G/KTXyxe\nv+4amwOKXO4sOi/plAwezFrFERmbP8f7R7wpi7L8k2Il/HQDggTxtdZG7MyVlZtc\nrV9E/YLZLhpIm83f+d6ALQ86AwKBgQC2yEkdNhqKCyRsUctCAgc4n7uFpnkaXuAZ\n1MAaBTy19OTOc3/PCkpA3+sdSPhYhIDjdAOSLYTcvpzD7DkCHxBd6C/nS26iFDiE\nLcrn+XJ3d56va5S+ux+C5iYK/S5sStIOkY7uop4/gw766uD6vzeLlHyxJ1dWVWOm\nSF+YzgM7BwKBgB37qGjzWr9NTU0vhaZB4npcWOZ5gKsO7bFZ/yT8+c3FcWSGYZ/5\n4MSkVXU9wok6hVOxx0/IsfmJOt+AFyEYvw2scYI7Z/qS5X0Ing4nYBR7HH46cOIn\nlMVwXytkegDMwUn1LKS05xFcu4gLuQtowIt0TPsiQH1F7U3ZriJu6WRjAoGAZEDS\nqW0FfXXDEo6Cd7/5CfvCtPmsLuSe8kwY2azJsduSrBH5piu0soSexr9BR/vVXexC\nESlaWGFMRsIIOrujFH7H14suMUP6A7XCNx5AxHod1YWiXkLwc7GcaCaaEdewA0Gf\nLhCPz7Iow0OVBrNe2fYltl0nsDjBoXDMzlkguH0CgYBhBYS4HKB0UhkqSg/4B1Lq\nx7uJ4XhPrFwx0XaZ7K1fKOo8YevUMTlkIY1ZWsv8aCtarkQ/xyl/mPUZVGgRGPw/\nugOsigRZjfbR441PPUy8syg/we6SVMDHlHCUxgDTJoNdcI6cH29Si2NUYM57+Ow1\nj/i71DDL+G7KyPZr6igWOA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "distroaccount@appdistro-c76d8.iam.gserviceaccount.com",
+  "client_id": "111775191844575620702",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/distroaccount%40appdistro-c76d8.iam.gserviceaccount.com"
+}

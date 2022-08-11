@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897586822215",
+    "project_id": "appdistro-c76d8",
+    "storage_bucket": "appdistro-c76d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897586822215:android:d234104ad4a28319014562",
+        "android_client_info": {
+          "package_name": "com.aliziwa.firebaseapptester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897586822215-h19d422gebvl6pbcnfcslvfiqh9jfl3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNc02kRLwvIhxaeVKFY8-BCMOrQd8En0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897586822215-h19d422gebvl6pbcnfcslvfiqh9jfl3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
