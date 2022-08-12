@@ -13,7 +13,7 @@ android {
         minSdk 21
         targetSdk 32
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.5"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -21,7 +21,7 @@ android {
     buildTypes {
         debug {
             firebaseAppDistribution {
-                releaseNotes = "Distro test debug with uppercase"
+                releaseNotes = "There's no way this is working. "
                 serviceCredentialsFile = System.getenv("GOOGLE_APPLICATION_CREDENTIALS") //"$rootDir/service_creds_app_distro.json"
                 groups="TestingDistro"
             }
