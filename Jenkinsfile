@@ -27,7 +27,7 @@ node {
    if (isMainline) {
 
         stage 'Archive'
-             archiveArtifacts artifacts: 'app/build/outputs/apk/release/*.apk', fingerprint: false, allowEmptyArchive: false
+             archiveArtifacts artifacts: 'app/build/outputs/apk/debug/*.apk', fingerprint: false, allowEmptyArchive: false
 
           stage ('Distribute') {
               withEnv(environment) {
