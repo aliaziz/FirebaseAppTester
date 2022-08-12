@@ -20,8 +20,8 @@ node {
         sh "./gradlew test"
     }
 
-    stage 'Build Release'
-        sh "./gradlew assembleRelease"
+    stage 'Build Debug'
+        sh "./gradlew assembleDebug"
 
 
    if (isMainline) {
@@ -31,7 +31,7 @@ node {
 
           stage ('Distribute') {
               withEnv(environment) {
-                  sh "./gradlew assembleRelease appDistributionUploadDebug"
+                  sh "./gradlew assembleDebug appDistributionUploadDebug"
               }
           }
 
