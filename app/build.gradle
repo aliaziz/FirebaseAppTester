@@ -21,17 +21,12 @@ android {
     buildTypes {
         debug {
             firebaseAppDistribution {
-                releaseNotes = "There's no way this is working. "
+                releaseNotes = "Check out new features "
                 serviceCredentialsFile = System.getenv("GOOGLE_APPLICATION_CREDENTIALS") //"$rootDir/service_creds_app_distro.json"
                 groups="TestingDistro"
             }
         }
         release {
-            firebaseAppDistribution {
-                releaseNotes = "Distro test"
-                serviceCredentialsFile = "$rootDir/service_creds_app_distro.json"
-                groups="testingdistro"
-            }
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
