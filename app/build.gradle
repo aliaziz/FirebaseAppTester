@@ -21,7 +21,7 @@ android {
     buildTypes {
         debug {
             firebaseAppDistribution {
-                releaseNotes = "Check out new features "
+                releaseNotes = "Testing with Jose"
                 serviceCredentialsFile = System.getenv("GOOGLE_APPLICATION_CREDENTIALS") //"$rootDir/service_creds_app_distro.json"
                 groups="TestingDistro"
             }
