@@ -37,7 +37,7 @@ jobs:
       - name: Build all artifacts with debug mode
         run: ./gradlew assembleDebug appDistributionUploadDebug
         env: 
-          DEV_KEYSTORE_PASSWORD: ${{ secretes.KEYSTORE_PASSWORD }}
+          DEV_KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
           DEV_KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
           DEV_KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
           DEV_KEY_APPID: ${{ secrets.KEY_APPID }}
