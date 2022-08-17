@@ -7,6 +7,6 @@
     <string name="next">Next</string>
     <string name="previous">Back</string>
 
-    <string name="hello_first_fragment">Some new awesome feature</string>
+    <string name="hello_first_fragment">Change two</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
